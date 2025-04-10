@@ -21,7 +21,7 @@ python src/train.py
 
 The following image showcases IRIS flower class recognition:
 
-![Iris Model Predictions](https://raw.githubusercontent.com/coolhead/IRIS_Classification_Streamlit_Pipeline_Project/main/image.png)
+![Iris Model Predictions](image.png)
 
 
 
