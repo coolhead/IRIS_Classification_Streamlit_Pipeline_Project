@@ -15,3 +15,9 @@ A simple machine learning project to classify iris flower species using scikit-l
 pip install -r requirements.txt
 python src/train.py
 
+### Example Visualization
+
+The following image showcases IRIS flower class recognition:
+
+![Class with Class Name](image.png)
+---
