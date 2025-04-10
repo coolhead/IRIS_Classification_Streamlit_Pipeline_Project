@@ -15,13 +15,14 @@ A simple machine learning project to classify iris flower species using scikit-l
 pip install -r requirements.txt
 python src/train.py
 
-```bash
+---
 
 ## Example Visualization
 
 The following image showcases IRIS flower class recognition:
 
-![Iris Model Predictions](image.png)
+![Iris Model Predictions](https://raw.githubusercontent.com/coolhead/IRIS_Classification_Streamlit_Pipeline_Project/main/image.png)
+
 
 
 ---
