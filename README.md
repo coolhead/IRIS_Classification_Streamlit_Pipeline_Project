@@ -19,5 +19,5 @@ python src/train.py
 
 The following image showcases IRIS flower class recognition:
 
-![Class with Class Name](image.png)
+![Iris Model Predictions](image.png)
 ---
